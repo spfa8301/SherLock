@@ -15,7 +15,7 @@
 97bb95f55a,1462303213284,App entered onResume(),App Mode Change,malicious,malicious,5.0,5
 97bb95f55a,1462303217907,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,5
 97bb95f55a,1462303218044,App entered onPause(),App Mode Change,malicious,malicious,5.0,5
-97bb95f55a,1462303218318,Successful send to server(duration [msec],size [bytes]);410;30,Sending Data,malicious,malicious,5.0,5
+97bb95f55a,1462303218318,Successful send to server(duration [msec]size [bytes]);410;30,Sending Data,malicious,malicious,5.0,5
 97bb95f55a,1462303224756,App entered onResume(),App Mode Change,malicious,malicious,5.0,5
 97bb95f55a,1462303229210,App entered onPause(),App Mode Change,malicious,malicious,5.0,5
 97bb95f55a,1462303229641,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,5
