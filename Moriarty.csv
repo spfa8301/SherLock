@@ -55,7 +55,7 @@
 97bb95f55a,1462686606382,App entered onResume(),App Mode Change,malicious,malicious,5.0,8
 97bb95f55a,1462686623073,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,8
 97bb95f55a,1462686623153,App entered onPause(),App Mode Change,malicious,malicious,5.0,8
-97bb95f55a,1462686623833,Successful send to server(duration [msec],size [bytes]);761;27,Sending Data,malicious,malicious,5.0,8
+97bb95f55a,1462686623833,Successful send to server(duration [msec] size [bytes]);761;27,Sending Data,malicious,malicious,5.0,8
 97bb95f55a,1462686628485,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,8
 97bb95f55a,1463005996789,Login screen launched(login app);Facebook,Shortcut Tapped,malicious,malicious,5.0,9
 97bb95f55a,1463005996845,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,9
