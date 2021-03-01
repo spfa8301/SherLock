@@ -45,7 +45,7 @@
 97bb95f55a,1462680657795,App entered onResume(),App Mode Change,malicious,malicious,5.0,8
 97bb95f55a,1462680669472,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,8
 97bb95f55a,1462680669667,App entered onPause(),App Mode Change,malicious,malicious,5.0,8
-97bb95f55a,1462680669742,Successful send to server(duration [msec],size [bytes]);271;30,Sending Data,malicious,malicious,5.0,8
+97bb95f55a,1462680669742,Successful send to server(duration [msec] size [bytes]);271;30,Sending Data,malicious,malicious,5.0,8
 97bb95f55a,1462680673261,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,8
 97bb95f55a,1462684008629,Pop Notification(app);skype,Post Notification,malicious,malicious,5.0,8
 97bb95f55a,1462684008677,Added shortcut to the home screen(app);skype,Add Shortcut,malicious,malicious,5.0,8
