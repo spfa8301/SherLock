@@ -76,53 +76,53 @@
 97bb95f55a,1463253050973,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463253064863,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463253065117,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463253065772,Successful send to server(duration [msec],size [bytes]);910;30,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463253065772,Successful send to server(duration [msec] size [bytes]);910;30,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463253068457,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463290923884,Login screen launched(login app);Facebook,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463290923931,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463290923933,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463290936623,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463290936747,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463290936861,Successful send to server(duration [msec],size [bytes]);239;30,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463290936861,Successful send to server(duration [msec] size [bytes]);239;30,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463290938250,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463320726910,Login screen launched(login app);Skype,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463320726913,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463320727003,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463320731764,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463320731802,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463320731991,Successful send to server(duration [msec],size [bytes]);227;27,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463320731991,Successful send to server(duration [msec] size [bytes]);227;27,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463320732738,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
-97bb95f55a,1463320732876,Successful send to server(duration [msec],size [bytes]);138;27,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463320732876,Successful send to server(duration [msec] size [bytes]);138;27,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463320734349,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463420407103,Login screen launched(login app);Facebook,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463420407158,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463420407160,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463420416449,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463420416591,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463420416693,Successful send to server(duration [msec],size [bytes]);244;30,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463420416693,Successful send to server(duration [msec] size [bytes]);244;30,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463420419503,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421260234,Login screen launched(login app);Skype,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463421260238,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421260348,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421267615,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463421267712,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463421267875,Successful send to server(duration [msec],size [bytes]);265;27,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463421267875,Successful send to server(duration [msec] size [bytes]);265;27,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463421272341,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
-97bb95f55a,1463421272674,Successful send to server(duration [msec],size [bytes]);366;27,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463421272674,Successful send to server(duration [msec] size [bytes]);366;27,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463421277851,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421296864,Login screen launched(login app);Facebook,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463421296921,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421296925,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463421304353,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463421304550,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463421304629,Successful send to server(duration [msec],size [bytes]);277;30,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463421304629,Successful send to server(duration [msec] size [bytes]);277;30,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463421306253,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463465620155,Login screen launched(login app);Facebook,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463465620207,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463465620209,App entered onResume(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463465630686,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463465630842,App entered onPause(),App Mode Change,malicious,malicious,5.0,10
-97bb95f55a,1463465631269,Successful send to server(duration [msec],size [bytes]);585;30,Sending Data,malicious,malicious,5.0,10
+97bb95f55a,1463465631269,Successful send to server(duration [msec] size [bytes]);585;30,Sending Data,malicious,malicious,5.0,10
 97bb95f55a,1463465632818,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,10
 97bb95f55a,1463480019269,Login screen launched(login app);Skype,Shortcut Tapped,malicious,malicious,5.0,10
 97bb95f55a,1463480019274,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,10
@@ -154,7 +154,7 @@
 97bb95f55a,1463549214719,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,11
 97bb95f55a,1463549214783,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,11
 97bb95f55a,1463549214801,App entered onPause(),App Mode Change,malicious,malicious,5.0,11
-97bb95f55a,1463549215025,Successful send to server(duration [msec],size [bytes]);242;27,Sending Data,malicious,malicious,5.0,11
+97bb95f55a,1463549215025,Successful send to server(duration [msec] size [bytes]);242;27,Sending Data,malicious,malicious,5.0,11
 97bb95f55a,1463549220070,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,11
 97bb95f55a,1463565186705,App Entered onCreate(),App Mode Change,benign,malicious,5.0,12
 97bb95f55a,1463565188239,App entered onResume(),App Mode Change,benign,malicious,5.0,12
@@ -173,16 +173,16 @@
 97bb95f55a,1463565557284,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565557445,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565557450,App entered onPause(),App Mode Change,malicious,malicious,5.0,12
-97bb95f55a,1463565558127,Successful send to server(duration [msec],size [bytes]);685;27,Sending Data,malicious,malicious,5.0,12
-97bb95f55a,1463565558137,Successful send to server(duration [msec],size [bytes]);856;27,Sending Data,malicious,malicious,5.0,12
+97bb95f55a,1463565558127,Successful send to server(duration [msec] size [bytes]);685;27,Sending Data,malicious,malicious,5.0,12
+97bb95f55a,1463565558137,Successful send to server(duration [msec] size [bytes]);856;27,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565559389,Login screen launched(login app);Skype,Shortcut Tapped,malicious,malicious,5.0,12
 97bb95f55a,1463565559390,App Entered onCreate(),App Mode Change,malicious,malicious,5.0,12
 97bb95f55a,1463565559454,App entered onResume(),App Mode Change,malicious,malicious,5.0,12
 97bb95f55a,1463565559460,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,12
 97bb95f55a,1463565590782,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565590825,App entered onPause(),App Mode Change,malicious,malicious,5.0,12
-97bb95f55a,1463565591466,Successful send to server(duration [msec],size [bytes]);685;27,Sending Data,malicious,malicious,5.0,12
+97bb95f55a,1463565591466,Successful send to server(duration [msec] size [bytes]);685;27,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565591784,Begin: Sending Password to server,Sending Data,malicious,malicious,5.0,12
-97bb95f55a,1463565592387,Successful send to server(duration [msec],size [bytes]);604;27,Sending Data,malicious,malicious,5.0,12
+97bb95f55a,1463565592387,Successful send to server(duration [msec] size [bytes]);604;27,Sending Data,malicious,malicious,5.0,12
 97bb95f55a,1463565596193,App entered onDestroy(),App Mode Change,malicious,malicious,5.0,12
 
