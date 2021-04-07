@@ -1,1 +1,1 @@
-### “SherLock - Detecting Malicious Smartphone Behaviour ”
+# “SherLock - Detecting Malicious Smartphone Behaviour ”
